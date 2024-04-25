@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\bin\Debug\net8.0\DepositoBancarioOO.exe
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\bin\Debug\net8.0\DepositoBancarioOO.deps.json
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\bin\Debug\net8.0\DepositoBancarioOO.runtimeconfig.json
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\bin\Debug\net8.0\DepositoBancarioOO.dll
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\bin\Debug\net8.0\DepositoBancarioOO.pdb
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.AssemblyInfo.cs
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.dll
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\refint\DepositoBancarioOO.dll
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.pdb
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\DepositoBancarioOO.genruntimeconfig.cache
+C:\Users\julia\source\repos\DepositoBancarioOO\DepositoBancarioOO\obj\Debug\net8.0\ref\DepositoBancarioOO.dll
